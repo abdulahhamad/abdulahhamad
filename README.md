@@ -17,6 +17,5 @@
   href="https://twitter.com/Abdallah_WebDev"><img src="https://img.icons8.com/color/24/000000/twitter--v1.png"/></a>
 
 <br />
-
 ###  Technologies I'm Using :
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><img src="https://img.icons8.com/color/48/000000/sass-avatar.png"/><img src="https://img.icons8.com/color/48/000000/npm.png"/><img src="https://img.icons8.com/windows/32/000000/yarn-logo.png"/><img src="https://img.icons8.com/color/48/000000/react-native.png"/>
