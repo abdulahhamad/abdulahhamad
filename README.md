@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything for web 😅
 - 👯 I’m looking to collaborate on ...React.js
 - 🤔 I’m looking for help with ...React Native
-- 💬 Ask me about ... abdullah.developer97@gmail.com
+- 💬 Ask me on ... abdullah.developer97@gmail.com
 - ⚡ Fun fact: I love swimming and riding motorcycles 🏊‍♂️ 🏍 
 
 ### Connect with me:
