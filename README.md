@@ -10,12 +10,7 @@ Creative Web Developer with 3 years of experience providing high-impact Solution
 *   ✉️  You can contact me at [abdullah.developer97@gmail.com](mailto:abdullah.developer97@gmail.com)
 *   🚀  I'm currently working on [Imtilak Group](http://www.imtilakgroup.com)
 *   🧠  I'm learning node.js ,JavaScript
-*   🤝  I'm open to collaborating on JavaScript ,react.js
-
-
-### Skills
-
-<p align="left">
+*   🤝  I'm open to collaborating on JavaScript ,react.js### Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -30,10 +25,10 @@ Creative Web Developer with 3 years of experience providing high-impact Solution
                                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
                     </p>
                     
-                  ### Socials
+### Socials
                   
                   
-                <p align="left">
+<p align="left">
                           
                       <a href="https://www.facebook.com/abdullahhamma97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
                           
@@ -49,18 +44,3 @@ Creative Web Developer with 3 years of experience providing high-impact Solution
                   src="https://github-readme-streak-stats.herokuapp.com/?user=abdulahhamad&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
                       href="http://www.github.com/abdulahhamad"><img src="https://activity-graph.herokuapp.com/graph?username=abdulahhamad&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/abdulahhamad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahhamad&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>### Support Me<a
                   href="https://www.buymeacoffee.com/abdullahdeQ"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-
-
-### Connect with me:
-
-
-<a class="twitter-follow-button"
-  href="https://www.linkedin.com/in/abdalla-alhamad/">![icons8-linkedin-24](https://user-images.githubusercontent.com/81675762/140270965-46143cee-7655-4d11-b9a5-1cb113f03112.png)</a><a class="twitter-follow-button"  
-  href="https://www.instagram.com/abdalla_alhammad/"><img src="https://img.icons8.com/fluency/24/000000/instagram-new.png"/></a>
-<a class="twitter-follow-button"  
-  href="https://twitter.com/Abdallah_WebDev"><img src="https://img.icons8.com/color/24/000000/twitter--v1.png"/></a>
-<br />
-
-###  Technologies I'm Using :
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> <img src="https://img.icons8.com/color/48/000000/sass-avatar.png"/> <img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://img.icons8.com/windows/50/2188b6/yarn-logo.png"/> <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
