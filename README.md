@@ -8,7 +8,6 @@ Creative Web Developer with 3 years of experience providing high-impact Solution
 
 *   🌍  I'm based in Istanbul
 *   ✉️  You can contact me at [abdullah.developer97@gmail.com](mailto:abdullah.developer97@gmail.com)
-*   🚀  I'm currently working on [Imtilak Group](http://www.imtilakgroup.com)
 *   🧠  I'm learning node.js ,JavaScript
 *   🤝  I'm open to collaborating on JavaScript ,react.js
 
