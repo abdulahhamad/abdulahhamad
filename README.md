@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi 👋 My name is abdullah hamitoğlu
+===================================
+
+Web Frontend developer
+----------------------
+
+Creative Web Developer with 3 years of experience providing high-impact Solutions for different web systems. Skilled in designing, developing, and testing multi
 
 - 🔭 I’m currently working on ...Web Front End Developer 👨‍💻 
 - 🌱 I’m currently learning everything for web 😅
