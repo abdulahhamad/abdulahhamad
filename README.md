@@ -55,6 +55,6 @@ Creative Web Developer with 5 years of experience providing high-impact Solution
 
                      
   ### Support Me
-  <a href="https://www.buymeacoffee.com/abdullahdeQ">
+  <a target="_blnk" href="https://www.buymeacoffee.com/abdullahdeQ">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
                   
